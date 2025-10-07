@@ -9,7 +9,7 @@ It includes supporting materials referenced in the paper.
 ## Repository Structure
 
 ```plaintext
-📄 RQ4_appendix_1006.csv
-📄 appendix_feedback_review_article_list.csv
+📄 Appendix_Feedback_Review_Article_List.csv
+📄 Appendix_RQ4_Evaluation_Metrics_and_Outcomes.csv
 📄 README.md # this file
 ```
